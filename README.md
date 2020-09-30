@@ -1,2 +1,2 @@
 # Data-Scientist-Role-Play
-Profiling and Analyzing the Yelp Dataset 
+Profiling and Analyzing the Yelp Dataset Using SQL
